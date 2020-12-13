@@ -1,0 +1,37 @@
+
+{ "products":[
+    {
+        "_id":"1",
+        "name":"Slim Shirt",
+        "category":"Shirts",
+        "image":"/images/d1.jpeg",
+        "price":600,
+        "brand":"Nike",
+        "rating":4.5,
+        "numReview":10,
+        "countInStock":0
+    },
+    {
+        "_id":"2",
+        "name":"fit Shirt",
+        "category":"Shirts",
+        "image":"/images/d1.jpeg",
+        "price":800,
+        "brand":"sparky",
+        "rating":4.0,
+        "numReview":6,
+        "countInStock":9
+    },
+    {
+        "_id":"3",
+        "name":"Dark Shirt",
+        "category":"Shirts",
+        "image":"/images/d1.jpeg",
+        "price":500,
+        "brand":"wrangler",
+        "rating":4.3,
+        "numReview":8,
+        "countInStock":2
+    }
+    
+]}
